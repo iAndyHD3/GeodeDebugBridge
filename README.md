@@ -21,3 +21,18 @@ Features:
 - Autocomplete keyboard navigation: ↑↓, Tab/Enter to accept, Esc to dismiss
 - Click any log row to expand / collapse multi-line messages
 - Auto-scroll that pauses when you scroll up to review history
+
+# Usage:
+
+## Windows
+
+just install the mod and press Alt+L, the page should auto connect to the websocket server
+
+## Android 
+
+Make sure you have the mod installed and that you are connected to ADB, it will not work otherwise. 
+Get your device's IP using `adb devices` and set that in the web UI. 
+
+# Disclaimer
+
+For transparency's sake, 99% of this has been vibe-coded. If you're not okay with that I don't care 👍
