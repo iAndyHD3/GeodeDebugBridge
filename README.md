@@ -4,7 +4,9 @@ This mod opens a websocket server that broadcasts geode logs, that's about it, n
 
 There's a web UI available which is only a single [html file](resources/Geode%20Debug%20Bridge.html) located in the resouces folder. You can open the Web UI using the keybind `Alt+L` (configurable in geode settings)
 
-Finally a **good** and pleasent way to view geode logs, powered by a
+Finally a **good** and pleasent way to view and query geode logs.
+
+![ezgif-5648391c059f495c](https://github.com/user-attachments/assets/3be0c982-85db-4705-91ee-f6e0cb596013)
 
 Features:
 
